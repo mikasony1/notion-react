@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.note-body {
+  overflow-wrap: break-word;
+  max-height: 24rem;
+}
